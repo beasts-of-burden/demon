@@ -1,0 +1,567 @@
+{
+
+
+    "ロゴ":
+    {
+        "Style_files": ["images_update/kimetsu_proc/ロゴ/簡体字/rgb版logo-png.png",
+                        "images_update/kimetsu_proc/ロゴ/簡体字/1C版logo-png.png",
+                        "images_update/kimetsu_proc/ロゴ/簡体字ロゴ/確認用/鬼灭之刃刀匠村篇汉化LOGO_RGB_アートボード 1-png.jpg",
+                        "images_update/kimetsu_proc/ロゴ/簡体字ロゴ/確認用/鬼灭之刃锻刀村篇汉化LOGO_1C_アートボード 1-png.jpg",
+                        "images_update/kimetsu_proc/ロゴ/繁体字/鬼滅之刃 柱訓練篇_繁Logo_CMYK-jpg.jpg",
+                        "images_update/kimetsu_proc/ロゴ/繁体字/鬼滅之刃 柱訓練篇_繁Logo_RGB-jpg.jpg",
+                        "images_update/kimetsu_proc/ロゴ/繁体字ロゴ/鬼滅之刃 刀匠村篇_CMYK-jpg.jpg",
+                        "images_update/kimetsu_proc/ロゴ/繁体字ロゴ/鬼滅之刃 刀匠村篇_RGB-jpg.jpg"
+                       ]
+    },
+
+     "竈門 炭治郎": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/雑誌版権/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_RGB_ck-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_CMYK_ck-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版)2023_0403_アニメディア2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版2023_0403_アニメディア2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ5月号中面（0410売り）炭治郎＆時透/(国内版)2023_0314_アニメージュ2023年5月号_nohin_RGB - コピー-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ5月号中面（0410売り）炭治郎＆時透/(国内版)2023_0314_アニメージュ2023年5月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_RGB+-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_CMYK+-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_炭治郎_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_炭治郎_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/中韓版炭治郎/CMYK/(中韓版)2023_0126_汎用等身版権_炭治郎_nohin_CMYK_ck-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/中韓版炭治郎/RGB/(中韓版)2023_0126_汎用等身版権_炭治郎_nohin_RGB_ck-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_炭治郎_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/雑誌版権/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_RGB_ck-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_CMYK_ck-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版)2023_0403_アニメディア2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版2023_0403_アニメディア2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ5月号中面（0410売り）炭治郎＆時透/(国内版)2023_0314_アニメージュ2023年5月号_nohin_RGB - コピー-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ5月号中面（0410売り）炭治郎＆時透/(国内版)2023_0314_アニメージュ2023年5月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_RGB+-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_CMYK+-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_炭治郎_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_炭治郎_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/中韓版炭治郎/CMYK/(中韓版)2023_0126_汎用等身版権_炭治郎_nohin_CMYK_ck-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/中韓版炭治郎/RGB/(中韓版)2023_0126_汎用等身版権_炭治郎_nohin_RGB_ck-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_炭治郎_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/※中韓版※/【中韓版】2021_0816_汎用SD_炭治郎_nohin_RGB_ck-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/※中韓版※/【中韓版】2021_0816_汎用SD_炭治郎_nohin_CMYK_ck-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_炭治郎_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_RGB_ck-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_CMYK_ck-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_炭治郎_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_RGB+-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_CMYK+-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/中韓版炭治郎/CMYK/(中韓版)2023_0126_汎用等身版権_炭治郎_nohin_CMYK_ck-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/中韓版炭治郎/RGB/(中韓版)2023_0126_汎用等身版権_炭治郎_nohin_RGB_ck-psd-compose-png.png"
+        ]
+    },
+    "竈門 禰豆子": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_RGB+-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_CMYK+-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_禰豆子_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_禰豆子_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_禰豆子_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_RGB+-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_CMYK+-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_禰豆子_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_禰豆子_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_禰豆子_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_禰豆子_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_禰豆子_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_禰豆子_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_禰豆子_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_禰豆子_nohin_CMYK のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_禰豆子_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_RGB+-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_CMYK+-psd-compose-png.png"
+        ]
+    },
+
+    
+    "時透 無一郎": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア5月号表紙（0410売り）時透ソロ/2023_0308_アニメディア5月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_RGB_ck-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_CMYK_ck-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ7月号中面（0610売り）無一郎/2023_0503_アニメージュ2023年7月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ7月号中面（0610売り）無一郎/2023_0503_アニメージュ2023年7月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版)2023_0403_アニメディア2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版2023_0403_アニメディア2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ5月号中面（0410売り）炭治郎＆時透/(国内版)2023_0314_アニメージュ2023年5月号_nohin_RGB - コピー-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ5月号中面（0410売り）炭治郎＆時透/(国内版)2023_0314_アニメージュ2023年5月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_無一郎_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_無一郎_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_無一郎_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_無一郎_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_無一郎_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/中国本土版/刀鍛冶の里編ティザービジュアル_Muichiro_chinese-psd-compose.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/中国本土版/刀鍛冶の里編ティザービジュアル_Muichiro_chinese-jpg.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/商品化のみキャラレイヤー/2023_0214_刀鍛冶の里編ティザービジュアル_時透_バラ素材-psd-compose.png",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/バラデータ/刀鍛冶編ティザービジュアル_Muichiro_トリミング-jpg.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/バラデータ/刀鍛冶編ティザービジュアル_Muichiro_トリミング-psd-compose-jpg.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/バラデータ/元データ/蛻骰帛・邱ｨ繝・ぅ繧ｵ繧吶・繝偵ｙ繧ｷ繧吶Η繧｢繝ｫ_Muichiro_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/バラデータ/元データ/刀鍛冶編ティザービジュアル_Muichiro-psd-compose.jpg",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア5月号表紙（0410売り）時透ソロ/2023_0308_アニメディア5月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア5月号表紙（0410売り）時透ソロ/2023_0308_アニメディア5月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_RGB_ck-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_CMYK_ck-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ7月号中面（0610売り）無一郎/2023_0503_アニメージュ2023年7月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ7月号中面（0610売り）無一郎/2023_0503_アニメージュ2023年7月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版)2023_0403_アニメディア2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版2023_0403_アニメディア2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ5月号中面（0410売り）炭治郎＆時透/(国内版)2023_0314_アニメージュ2023年5月号_nohin_RGB - コピー-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ5月号中面（0410売り）炭治郎＆時透/(国内版)2023_0314_アニメージュ2023年5月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号（0610頃売り）表紙【実弥・伊黒・時透】/2024_0507_アニメディア7月号表紙+ピンナップ_nohin_RGB-psd-compose.jpg",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号（0610頃売り）表紙【実弥・伊黒・時透】/2024_0507_アニメディア7月号表紙+ピンナップ_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_無一郎_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_無一郎_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_無一郎_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_無一郎_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_無一郎_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/中国本土版/刀鍛冶の里編ティザービジュアル_Muichiro_chinese-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/中国本土版/刀鍛冶の里編ティザービジュアル_Muichiro_chinese-jpg.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/商品化のみキャラレイヤー/2023_0214_刀鍛冶の里編ティザービジュアル_時透_バラ素材-psd-compose.png",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/バラデータ/元データ/刀鍛冶編ティザービジュアル_Muichiro-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/バラデータ/ポスターデータ/Muichiro_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_無一郎_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/アニメディア5月号表紙（0410売り）時透ソロ/2023_0308_アニメディア5月号_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/アニメディア5月号表紙（0410売り）時透ソロ/2023_0308_アニメディア5月号_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_RGB_ck-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/中韓版/アニメージュ5月号中面（0410売り）炭治郎＆時透_ck/(中韓版)2023_0314_アニメージュ2023年5月号_nohin_CMYK_ck-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/特化型立ち絵/2023_0203_刀鍛冶特化汎用_無一郎_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/特化型立ち絵/2023_0203_刀鍛冶特化汎用_無一郎_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/アニメージュ7月号中面（0610売り）無一郎/2023_0503_アニメージュ2023年7月号_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/アニメージュ7月号中面（0610売り）無一郎/2023_0503_アニメージュ2023年7月号_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_時透_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_時透_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_無一郎_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_時透_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_時透_nohin_CMYK のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/商品化のみキャラレイヤー/2023_0214_刀鍛冶の里編ティザービジュアル_時透_バラ素材-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/バラデータ/ポスターデータ/Muichiro_CMYK-psd-compose-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_CMYK-psd-compose-png.png"
+        ]
+    },
+
+
+     "甘露寺 蜜璃": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_RGB+-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_CMYK+-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_蜜璃_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_蜜璃_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_蜜璃_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_蜜璃_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_蜜璃_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/中国検閲修正版：甘露寺/刀鍛冶編ティザービジュアル_Mitsuri_C調整-psd-compose.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/※メイン使用※ 2枚セットデザイン/0208_kmt_tokitoh+kanroji_KV2-jpg.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/※メイン使用※ 2枚セットデザイン/0209_kmt_tokitoh+kanroji_KV-psd-compose.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/商品化のみキャラレイヤー/2022_0110_刀鍛冶の里編ティザービジュアル_蜜璃_バラ素材-psd-compose.png",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/バラデータ/刀鍛冶編ティザービジュアル_Mitsuri_トリミング-jpg.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/バラデータ/刀鍛冶編ティザービジュアル_Mitsuri_トリミング-psd-compose.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/バラデータ/元データ/蛻骰帛・邱ｨ繝・ぅ繧ｵ繧吶・繝偵ｙ繧ｷ繧吶Η繧｢繝ｫ_Mitsuri_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_katana_proc/KV/ティザービジュアル/バラデータ/元データ/刀鍛冶編ティザービジュアル_Mitsuri-psd-compose.jpg",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号表紙（0609売り）炭治郎＆無一郎＆蜜璃/(国内版)2023_0504_アニメディア2023年7月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_RGB+-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_CMYK+-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_蜜璃_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_蜜璃_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_蜜璃_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_蜜璃_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_蜜璃_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/中国検閲修正版：甘露寺/刀鍛冶編ティザービジュアル_Mitsuri_C調整-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/※メイン使用※ 2枚セットデザイン/0208_kmt_tokitoh+kanroji_KV2-jpg.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/※メイン使用※ 2枚セットデザイン/0209_kmt_tokitoh+kanroji_KV-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/商品化のみキャラレイヤー/2022_0110_刀鍛冶の里編ティザービジュアル_蜜璃_バラ素材-psd-compose.png",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/バラデータ/刀鍛冶編ティザービジュアル_Mitsuri_トリミング-jpg.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/バラデータ/刀鍛冶編ティザービジュアル_Mitsuri_トリミング-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/バラデータ/元データ/蛻骰帛・邱ｨ繝・ぅ繧ｵ繧吶・繝偵ｙ繧ｷ繧吶Η繧｢繝ｫ_Mitsuri_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/バラデータ/元データ/刀鍛冶編ティザービジュアル_Mitsuri-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_蜜璃_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/特化型立ち絵/2023_0203_刀鍛冶特化汎用_蜜璃_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/特化型立ち絵/2023_0203_刀鍛冶特化汎用_蜜璃_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_蜜璃_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_蜜璃_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/中国検閲修正版：甘露寺/刀鍛冶編ティザービジュアル_Mitsuri_C調整-psd-compose-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_蜜璃_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_蜜璃_nohin_CMYK のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_蜜璃_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ5月号中面（0410売り）禰豆子＆蜜璃/2023_0221_ニュータイプ2023年5月号_中面_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/※メイン使用※ 2枚セットデザイン/0209_kmt_tokitoh+kanroji_KV-psd-compose-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_RGB+-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ7月号表紙（0610売り）炭治郎＆禰豆子＆蜜璃/2023_0504_ニュータイプ2023年7月号_nohin_CMYK+-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/商品化のみキャラレイヤー/2022_0110_刀鍛冶の里編ティザービジュアル_蜜璃_バラ素材-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/バラデータ/刀鍛冶編ティザービジュアル_Mitsuri_トリミング-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/バラデータ/刀鍛冶編ティザービジュアル_Mitsuri_トリミング-psd-compose-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/バラデータ/元データ/蛻骰帛・邱ｨ繝・ぅ繧ｵ繧吶・繝偵ｙ繧ｷ繧吶Η繧｢繝ｫ_Mitsuri_CMYK-psd-compose-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/バラデータ/元データ/刀鍛冶編ティザービジュアル_Mitsuri-psd-compose-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/バラデータ/ポスターデータ/Mitsuri_CMYK-psd-compose-jpg.jpg"
+
+        ]
+    },
+
+
+
+    "不死川 実弥": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_実弥_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_実弥_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_実弥_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号（0610頃売り）表紙【実弥・伊黒・時透】/2024_0507_アニメディア7月号表紙+ピンナップ_nohin_RGB-psd-compose.jpg",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号（0610頃売り）表紙【実弥・伊黒・時透】/2024_0507_アニメディア7月号表紙+ピンナップ_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_実弥_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_実弥_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_実弥_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/HGK_KV0_Sanemi-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_実弥_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_実弥_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_実弥_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_実弥_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_実弥_nohin_CMYK のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_実弥_nohin_CMYK-psd-compose-png.png"
+        ]
+    },
+    "不死川 玄弥": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版)2023_0403_アニメディア2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版2023_0403_アニメディア2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_玄弥_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_玄弥_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版)2023_0403_アニメディア2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア6月号中面（0510売り）炭治郎＆無一郎＆玄弥/(国内版2023_0403_アニメディア2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ6月号中面（0510売り）炭治郎＆禰豆子＆玄弥/(国内版)2023_0329_アニメージュ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_玄弥_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/特化型立ち絵/2023_0203_刀鍛冶特化汎用_玄弥_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/特化型立ち絵/2023_0203_刀鍛冶特化汎用_玄弥_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/特化型立ち絵/2023_0203_刀鍛冶特化汎用_玄弥_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_CMYK-psd-compose-png.png"
+        ]
+    },
+    "伊黒 小芭内": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_伊黒_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_伊黒_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_伊黒_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号（0610頃売り）表紙【実弥・伊黒・時透】/2024_0507_アニメディア7月号表紙+ピンナップ_nohin_RGB-psd-compose.jpg",
+            "images_update/kimetsu_proc/雑誌版権/アニメディア7月号（0610頃売り）表紙【実弥・伊黒・時透】/2024_0507_アニメディア7月号表紙+ピンナップ_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_伊黒_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_伊黒_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_伊黒_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/HGK_KV0_Obanai-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_伊黒_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_伊黒_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_伊黒_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_伊黒_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_伊黒_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_伊黒_nohin_CMYK のコピー-jpg-jpg.jpg"
+        ]
+    },
+    "冨岡 義勇": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_冨岡_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_冨岡_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_冨岡_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ7月号（0610頃売り）表紙【冨岡・錆兎】/2024_0430_アニメージュ2024年7月号表紙_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ7月号（0610頃売り）表紙【冨岡・錆兎】/2024_0430_アニメージュ2024年7月号表紙_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_冨岡_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_冨岡_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_冨岡_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/HGK_KV0_Giyuu-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_冨岡_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_冨岡_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_冨岡_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_冨岡_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_冨岡_nohin_CMYK のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_冨岡_nohin_CMYK-psd-compose-png.png"
+        ]
+    },
+    "半天狗": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0118_鬼汎用版権？_半天狗_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0118_鬼汎用版権？_半天狗_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "可楽": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0201_鬼汎用版権？_可楽_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0201_鬼汎用版権？_可楽_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "哀絶": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0201_鬼汎用版権？_哀絶_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0201_鬼汎用版権？_哀絶_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "嘴平 伊之助": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_伊之助_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_伊之助_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_伊之助_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_伊之助_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_伊之助_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_伊之助_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_伊之助_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_伊之助_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_伊之助_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_伊之助_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_伊之助_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_伊之助_nohin_CMYK のコピー-jpg-jpg.jpg"
+        ]
+    },
+    "宇髄 天元": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_宇髄_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_宇髄_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_宇髄_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_宇髄_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_宇髄_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_宇髄_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_宇髄_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_宇髄_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_宇髄_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_宇髄_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_宇髄_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_宇髄_nohin_CMYK のコピー-jpg-jpg.jpg"
+        ]
+    },
+    "小鉄": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/里の人たちのお面/04_kotetu/Links/kotetsu_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/ニュータイプ6月号中面（0510売り）無一郎＆玄弥＆小鉄/2023_0316_ニュータイプ2023年6月号_nohin_CMYK-psd-compose-png.png"
+        ]
+    },
+    "悲鳴嶼 行冥": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_悲鳴嶼_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_悲鳴嶼_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_悲鳴嶼_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_悲鳴嶼_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_悲鳴嶼_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_悲鳴嶼_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/【使用禁止】悲鳴嶼修正前/230617_5枚合体KV-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/【使用禁止】悲鳴嶼修正前/230617_5枚合体KV-png.png",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/【使用禁止】悲鳴嶼修正前/韓国版/鬼滅の刃[柱稽古編]_ティザービジュアル_韓国語_0718-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/HGK_KV0_Shinobu-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/HGK_KV0_Obanai-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/231108R_5枚合体KV-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/HGK_KV0_Sanemi-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/HGK_KV0_Giyuu-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/HGK_KV0_Gyoumei_R-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/韓国版/鬼滅の刃 柱稽古編kr_rev-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/韓国版/鬼滅の刃 柱稽古編kr_rev-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_悲鳴嶼_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_悲鳴嶼_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_悲鳴嶼_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_悲鳴嶼_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_悲鳴嶼_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_悲鳴嶼_nohin_CMYK のコピー-jpg-jpg.jpg"
+        ]
+    },
+    "憎珀天": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0201_鬼汎用版権？_憎珀天_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0201_鬼汎用版権？_憎珀天_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "我妻 善逸": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_善逸_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_善逸_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_善逸_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_善逸_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_善逸_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_善逸_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_善逸_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_善逸_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_善逸_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_善逸_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_善逸_nohin_CMYK のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_善逸_nohin_CMYK-psd-compose-png.png"
+        ]
+    },
+    
+    "栗花落 カナヲ": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_カナヲ_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_カナヲ_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_カナヲ_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_カナヲ_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_カナヲ_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_カナヲ_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_カナヲ_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_カナヲ_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_カナヲ_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_カナヲ_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_カナヲ_nohin_CMYK のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_カナヲ_nohin_CMYK-psd-compose-png.png"
+        ]
+    },
+    "煉獄 杏寿郎": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_煉獄_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_煉獄_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_煉獄_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_煉獄_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_煉獄_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_煉獄_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_煉獄_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_煉獄_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_煉獄_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_煉獄_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_煉獄_nohin_CMYK のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_煉獄_nohin_CMYK-psd-compose-png.png"
+        ]
+    },
+    "猗窩座": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0118_鬼汎用版権？_猗窩座_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0118_鬼汎用版権？_猗窩座_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "玉壺": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0118_鬼汎用版権？_玉壺_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0118_鬼汎用版権？_玉壺_nohin_RGB-psd-compose.png"
+        ]
+    },
+   
+    "積怒": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0201_鬼汎用版権？_積怒_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0201_鬼汎用版権？_積怒_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "空喜": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0201_鬼汎用版権？_空喜_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0201_鬼汎用版権？_空喜_nohin_RGB-psd-compose.png"
+        ]
+    },
+   
+    "童磨": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0118_鬼汎用版権？_童磨_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0118_鬼汎用版権？_童磨_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "累": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0119_鬼汎用版権？_累_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0119_鬼汎用版権？_累_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "累の兄": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0214_鬼汎用版権？_累の兄_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0214_鬼汎用版権？_累の兄_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "累の姉": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0214_鬼汎用版権？_累の姉_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0214_鬼汎用版権？_累の姉_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "累の母": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0214_鬼汎用版権？_累の母_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0214_鬼汎用版権？_累の母_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "累の父": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0214_鬼汎用版権？_累の父_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0214_鬼汎用版権？_累の父_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "胡蝶 しのぶ": {
+        "Style_files": [
+            "images_update/kimetsu_katana_proc/汎用版権/CMYK/2023_0126_汎用等身版権_しのぶ_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/RGB/2023_0126_汎用等身版権_しのぶ_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_katana_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_しのぶ_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/汎用版権/CMYK/2023_0126_汎用等身版権_しのぶ_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/RGB/2023_0126_汎用等身版権_しのぶ_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/汎用版権/【国内版のみ】デザイン例（国内OOH）/data/2023_0126_汎用等身版権_しのぶ_nohin_CMYK-psd-compose.jpg",
+            "images_update/kimetsu_proc/KV/ティザービジュアル/1108悲鳴嶼修正版/HGK_KV0_Shinobu-psd-compose.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK/2023_0126_汎用等身版権_しのぶ_nohin_CMYK-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_しのぶ_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB版/2021_0816_汎用SD_しのぶ_nohin_RGB のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/RGB/2023_0126_汎用等身版権_しのぶ_nohin_RGB-psd-compose-png.png",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_しのぶ_nohin_CMYK のコピー-jpg-jpg.jpg",
+            "images_update/kimetsu_proc/2. 立ち絵（汎用版権）＋ロゴ＋KV＋雑誌＋SD/CMYK版/2021_0816_汎用SD_しのぶ_nohin_CMYK-psd-compose-png.png"
+        ]
+    },
+    "錆兎": {
+        "Style_files": [
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ7月号（0610頃売り）表紙【冨岡・錆兎】/2024_0430_アニメージュ2024年7月号表紙_nohin_RGB-psd-compose.png",
+            "images_update/kimetsu_proc/雑誌版権/アニメージュ7月号（0610頃売り）表紙【冨岡・錆兎】/2024_0430_アニメージュ2024年7月号表紙_nohin_CMYK-psd-compose.png"
+        ]
+    },
+    "鬼舞辻 無惨": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0118_鬼汎用版権？_無惨_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0118_鬼汎用版権？_無惨_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "鳴女": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0119_鬼汎用版権？_鳴女_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0119_鬼汎用版権？_鳴女_nohin_RGB-psd-compose.png"
+        ]
+    },
+    "黒死牟": {
+        "Style_files": [
+            "images_update/kimetsu_proc/鬼_汎用版権/CMYK/2024_0118_鬼汎用版権？_黒死牟_nohin_CMYK-psd-compose.png",
+            "images_update/kimetsu_proc/鬼_汎用版権/RGB/2024_0118_鬼汎用版権？_黒死牟_nohin_RGB-psd-compose.png"
+        ]
+    }
+}
